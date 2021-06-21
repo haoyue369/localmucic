@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <!--默认字段-->
+    <string name="label_default_id">1000</string><!--用于设置item_list(layout)的音乐数目的大小，居中显示-->.
+    <string name="label_default_title">No Me Importar El Dinero (En Vivo)</string>
+    <string name="label_default_artist">Los Autéticos Decadentes - 25 Aniversario En Vivo En El Palacio de los Deportes</string>
+    <!--item-->
+    <string name="label_item_more">更多</string>
+    <string name="label_item_music_count">0首</string>
+    <!--Activity-->
+    <string name="label_Activity_mask">遮罩层</string>
+</resources>
